@@ -10,7 +10,6 @@ Une application multiplateforme pour calculer le taux d'alcoolémie en fonction 
   - Quantité de boisson alcoolisée consommée
   - Pourcentage d'alcool dans la boisson
 - **Affichage des résultats :** Donne un aperçu du niveau d'alcoolémie et des recommandations associées.
-- 
 ## Technologies utilisées
 
   **Langage de programmation :** C++
